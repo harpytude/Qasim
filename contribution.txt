@@ -1,0 +1,1 @@
+This is sample file to check how to contribute as developer guest in someone's project
